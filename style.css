@@ -167,7 +167,7 @@ p {
 
   color: var(--teal);
 
-  font-size: .65rem;
+  font-size: .85rem;
 
   font-weight: 800;
 
@@ -289,7 +289,7 @@ p {
 
   font-family: "Manrope";
 
-  font-size: .83rem;
+  font-size: 1rem;
 
   color: var(--ink);
 
@@ -300,7 +300,7 @@ p {
 
   display: block;
 
-  font-size: .58rem;
+  font-size: .8rem;
 
   color: var(--teal);
 
@@ -330,7 +330,7 @@ p {
 
 .nav-menu a {
 
-  font-size: .69rem;
+  font-size: 1rem;
 
   font-weight: 600;
 
@@ -376,7 +376,7 @@ p {
 
   color: var(--teal);
 
-  font-size: .67rem;
+  font-size: 1rem;
 
   font-weight: 700;
 
@@ -389,7 +389,7 @@ p {
 
   color: var(--ink);
 
-  font-size: .67rem;
+  font-size: 1rem;
 
 }
 
@@ -543,7 +543,7 @@ p {
 
   border-radius: 13px;
 
-  font-size: .7rem;
+  font-size: .95rem;
 
   font-weight: 800;
 
@@ -617,7 +617,7 @@ p {
 
   display: block;
 
-  font-size: .7rem;
+  font-size: .9rem;
 
 }
 
@@ -628,7 +628,7 @@ p {
 
   color: var(--muted);
 
-  font-size: .58rem;
+  font-size: .8rem;
 
 }
 
@@ -706,7 +706,7 @@ p {
 
   font-family: "Manrope";
 
-  font-size: .7rem;
+  font-size: .9rem;
 
 }
 
@@ -717,7 +717,7 @@ p {
 
   color: var(--muted);
 
-  font-size: .58rem;
+  font-size: .8rem;
 
   margin-top: 3px;
 
@@ -829,7 +829,7 @@ p {
 
 .experience-card span {
 
-  font-size: .6rem;
+  font-size: .85rem;
 
   line-height: 1.3;
 
@@ -847,7 +847,7 @@ p {
 
   margin-top: 20px;
 
-  font-size: .82rem;
+  font-size: 1rem;
 
   line-height: 1.85;
 
@@ -872,7 +872,7 @@ p {
 
 .about-points div {
 
-  font-size: .7rem;
+  font-size: .9rem;
 
   font-weight: 700;
 
@@ -926,7 +926,7 @@ p {
 
   max-width: 600px;
 
-  font-size: .82rem;
+  font-size: 1rem;
 
 }
 
@@ -1027,7 +1027,7 @@ p {
 
   color: var(--teal);
 
-  font-size: .68rem;
+  font-size: .9rem;
 
   font-weight: 900;
 
@@ -1064,7 +1064,7 @@ p {
 
   color: var(--muted);
 
-  font-size: .72rem;
+  font-size: .95rem;
 
   line-height: 1.5;
 
@@ -1165,7 +1165,7 @@ p {
 
   border-radius: 30px;
 
-  font-size: .58rem;
+  font-size: .82rem;
 
   font-weight: 800;
 
@@ -1200,7 +1200,7 @@ p {
 
   color: var(--teal);
 
-  font-size: .68rem;
+  font-size: .9rem;
 
   font-weight: 700;
 
@@ -1213,7 +1213,7 @@ p {
 
   margin-top: 15px;
 
-  font-size: .72rem;
+  font-size: .95rem;
 
   line-height: 1.75;
 
@@ -1257,7 +1257,7 @@ p {
 
   background: #fff;
 
-  font-size: .62rem;
+  font-size: .85rem;
 
   font-weight: 700;
 
@@ -1383,7 +1383,7 @@ p {
 
   border-radius: 12px;
 
-  font-size: .68rem;
+  font-size: .9rem;
 
   font-weight: 700;
 
@@ -1467,7 +1467,7 @@ p {
 
   color: var(--muted);
 
-  font-size: .58rem;
+  font-size: .82rem;
 
 }
 
@@ -1514,7 +1514,7 @@ p {
 
 .review-card p {
 
-  font-size: .72rem;
+  font-size: .95rem;
 
   line-height: 1.75;
 
@@ -1535,7 +1535,7 @@ p {
 
 .review-author strong {
 
-  font-size: .75rem;
+  font-size: .95rem;
 
 }
 
@@ -1544,7 +1544,7 @@ p {
 
   color: var(--muted);
 
-  font-size: .59rem;
+  font-size: .82rem;
 
 }
 
@@ -1615,7 +1615,7 @@ p {
 
   font-family: "Manrope";
 
-  font-size: .72rem;
+  font-size: .95rem;
 
   font-weight: 700;
 
@@ -1633,7 +1633,7 @@ p {
 
   margin-top: 12px;
 
-  font-size: .7rem;
+  font-size: .9rem;
 
   line-height: 1.7;
 
@@ -1688,7 +1688,7 @@ p {
 
   max-width: 600px;
 
-  font-size: .78rem;
+  font-size: .95rem;
 
 }
 
@@ -1789,7 +1789,7 @@ p {
 
   color: #A88E84;
 
-  font-size: .65rem;
+  font-size: .9rem;
 
   margin-bottom: 24px;
 
@@ -1800,7 +1800,7 @@ p {
 
   color: #D2C2BA;
 
-  font-size: .72rem;
+  font-size: .95rem;
 
   line-height: 1.8;
 
@@ -1871,7 +1871,7 @@ p {
 
   color: #fff;
 
-  font-size: .82rem;
+  font-size: 1rem;
 
   margin-bottom: 23px;
 
@@ -1884,7 +1884,7 @@ p {
 
   color: #CBBAB1;
 
-  font-size: .67rem;
+  font-size: .9rem;
 
   margin-bottom: 14px;
 
@@ -1975,7 +1975,7 @@ p {
 
   color: #9F8980;
 
-  font-size: .59rem;
+  font-size: .85rem;
 
   line-height: 1.3;
 
@@ -1990,7 +1990,7 @@ p {
 
   color: #fff;
 
-  font-size: .68rem;
+  font-size: 1rem;
 
   line-height: 1.5;
 
@@ -2037,7 +2037,7 @@ p {
 
   color: #fff;
 
-  font-size: .68rem;
+  font-size: .9rem;
 
   margin-top: 5px;
 
@@ -2065,7 +2065,7 @@ p {
 
   color: #9F8980;
 
-  font-size: .62rem;
+  font-size: .85rem;
 
 }
 
@@ -2244,7 +2244,7 @@ p {
 
   .nav-menu a {
 
-    font-size: .62rem;
+    font-size: .85rem;
 
   }
 
@@ -2313,14 +2313,14 @@ p {
 
   .brand-text strong {
 
-    font-size: .72rem;
+    font-size: .95rem;
 
   }
 
 
   .brand-text span {
 
-    font-size: .5rem;
+    font-size: .78rem;
 
   }
 
@@ -2383,7 +2383,7 @@ p {
 
     padding: 13px;
 
-    font-size: .72rem;
+    font-size: .95rem;
 
     border-radius: 10px;
 
@@ -2432,7 +2432,7 @@ p {
 
   .hero-description {
 
-    font-size: .78rem;
+    font-size: .95rem;
 
   }
 
@@ -2561,7 +2561,7 @@ p {
 
   .service-card li {
 
-    font-size: .72rem;
+    font-size: .95rem;
 
   }
 
@@ -2609,7 +2609,7 @@ p {
 
   .clinic-name {
 
-    font-size: .65rem;
+    font-size: .88rem;
 
   }
 
@@ -2618,7 +2618,7 @@ p {
 
     min-height: auto;
 
-    font-size: .7rem;
+    font-size: .9rem;
 
     line-height: 1.7;
 
@@ -2777,7 +2777,7 @@ p {
 
   .review-card p {
 
-    font-size: .73rem;
+    font-size: .92rem;
 
   }
 
@@ -2890,14 +2890,14 @@ p {
 
   .footer-contact-text strong {
 
-    font-size: .67rem;
+    font-size: .95rem;
 
   }
 
 
   .footer-contact-text small {
 
-    font-size: .58rem;
+    font-size: .8rem;
 
   }
 
